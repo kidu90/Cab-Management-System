@@ -1,0 +1,2 @@
+﻿ALTER TABLE Driver
+ADD Password VARCHAR(255);
